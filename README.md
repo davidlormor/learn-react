@@ -8,6 +8,7 @@
 
 ### React
 
+- [SurviveJS - React](http://survivejs.com/webpack)
 - [React Fundamentals at egghead.io by Joe Maddalone](https://egghead.io/series/react-fundamentals)
 
 ### Redux
@@ -16,4 +17,4 @@
 
 ### Webpack
 
-- [SurviveJS](http://survivejs.com/)
+- [SurviveJS - Webpack](http://survivejs.com/webpack)
